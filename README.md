@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Francisroyce
-- 👀 I’m interested in Software dev
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Software dev
+- 👀 I’m interested in machine learning, deep learning (generally Ai)
+- 🌱 I’m currently working on all sort of data
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me francisroyceuiroyceux@gmail.com
 
 <!---
