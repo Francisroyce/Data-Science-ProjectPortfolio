@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Francisroyce
-- 👀 I’m interested in machine learning, deep learning (generally Ai)
-- 🌱 I’m currently working on all sort of data
-- 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me francisroyceuiroyceux@gmail.com
+- 👋 Hello there, I go by the name @Francisroyce.
 
+I have a keen interest in machine learning and deep learning, generally within the field of AI.
+
+At the moment, I'm engaged in various data-related projects.
+
+I'm actively seeking opportunities for collaboration in the realm of machine learning.
+
+If you want to get in touch with me, you can reach me at francisroyceuiroyceux@gmail.com
 <!---
 Francisroyce/Francisroyce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
