@@ -1,10 +1,10 @@
 - 👋 Hello there, I go by the name @Francisroyce.
 
-I have a keen interest in machine learning and deep learning, generally within the field of AI.
+I have a keen interest in Data Analysis, machine learning and deep learning, generally within the field of tech.
 
 At the moment, I'm engaged in various data-related projects.
 
-I'm actively seeking opportunities for collaboration in the realm of machine learning.
+I'm actively seeking opportunities for collaboration.
 
 If you want to get in touch with me, you can reach me at francisroyce12@gmail.com
 <!---
