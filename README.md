@@ -1,4 +1,4 @@
-- 👋 Hello there, I go by the name @Francisroyce.
+- 👋 Hello there, my name is @Francisroyce.
 
 I have a keen interest in Data Analysis, machine learning and deep learning, generally within the field of tech.
 
